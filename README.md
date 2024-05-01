@@ -9,3 +9,7 @@
 - **Additional Security Layers:** Protects your program in kroks mode, making it harder to reverse engineer.
 - **Compatible with ConfuserEX 1.6:** Works with existing ConfuserEX 1.6 versions and extends its features.
 - **Enhanced Obfuscation:** Strong obfuscation algorithms are added, especially to protect your code.
+
+## More Information
+
+For more tools, join our community at [DeepRET Telegram Group](https://t.me/DeepRET).
